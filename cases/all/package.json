@@ -5,7 +5,7 @@
   },
   "dependenciesDate": "2021-05-05",
   "dependencies": {
-    "@atlaskit/editor-core": "^120.1.0",
+    "@atlaskit/editor-core": "^188.3.1",
     "@atlaskit/media-core": "^31.1.0",
     "@atlaskit/smart-card": "^13.0.0",
     "@babel/runtime": "^7.12.13",
